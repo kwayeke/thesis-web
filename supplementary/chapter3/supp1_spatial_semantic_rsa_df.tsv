@@ -1,0 +1,44 @@
+	RSA	name
+trm_558c7b5228ed4	0.9999955497	visual sentence recognition
+trm_550b5a47aa23e	0.9969339951	relational processing fMRI task paradigm
+trm_557b4b7e68727	0.9725066042	visual place recognition
+trm_557b4b47d994a	0.9715680748	visual number recognition
+trm_53c4465b0466f	0.904435854	why/how task
+trm_557b491318742	0.8773110297	oddball detection
+tsk_4a57abb949e1a	0.8634564981	stop signal task
+trm_4a3fd79d0af66	0.8479112537	response inhibition
+trm_557b4b652cbec	0.8444609907	visual pattern recognition
+trm_557b474e2b578	0.8245226487	auditory tone detection
+trm_557b4993a0fdd	0.8148436984	reinforcement learning
+trm_4cacf3fbc503b	0.8091510846	conditional stop signal task
+trm_557b4b56de455	0.7985192702	visual object detection
+trm_557b4aa070c10	0.7786338025	selective control
+trm_557b49851e991	0.7645791951	proactive control
+trm_550b53d7dd674	0.745078797	motor fMRI task paradigm
+trm_553e85265f51e	0.7211914711	functional localizer fMRI tasks
+trm_4c3e05903e4bb	0.7200670217	updating
+trm_557b476527a27	0.6689228694	auditory tone discrimination
+trm_557b482a7c62b	0.6207816133	emotional face recognition
+trm_557b4a7315f1b	0.60123675	response execution
+trm_557b4b3a6a34d	0.5771421862	visual form recognition
+all	0.5142091953	all
+trm_4a3fd79d0a20c	0.5140078258	error detection
+trm_4a3fd79d09c5b	0.4978395386	causal inference
+trm_4a3fd79d0af71	0.4697613996	response selection
+tsk_4a57abb949a4f	0.4651169469	Eriksen flanker task
+trm_550b50095d4a3	0.4218775189	working memory fMRI task paradigm
+trm_4a3fd79d09c28	0.4068387063	categorization
+trm_4cacf22a22d80	0.366552208	Probabilistic classification task
+tsk_4a57abb949bf6	0.3528405745	oddball task
+trm_557b4891e9265	0.3387842306	feature comparison
+trm_4a3fd79d0b392	0.3255840694	theory of mind
+trm_558c7b14c076e	0.3074165648	auditory sentence recognition
+trm_557b4b9ccdc4a	0.1205200887	visual word recognition
+trm_4d559bcd67c18	0.1098921353	balloon analogue risk task (BART)
+trm_557b48e337218	-0.0635175392	negative feedback processing
+trm_4cacee4a1d875	-0.1027341282	mixed gambles task
+trm_557b493e4203a	-0.2072773424	positive feedback processing
+trm_4ebd482eba5b1	-0.2315435018	word one-back task
+trm_4da890594742a	-0.3966917082	emotional regulation task
+trm_55b6b910b4b23	-0.4736437681	right finger response execution
+trm_557b48f22ba99	-0.6661309885	numerical scale judgment
